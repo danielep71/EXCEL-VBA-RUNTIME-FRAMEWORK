@@ -42,7 +42,7 @@ The framework extends Excel with a runtime layer composed of three main domains:
 
 ### UI Controller
 - Excel UI Controller  
-  https://github.com/danielep71/excel-ui-controller
+  https://github.com/danielep71/VBA-EXCEL_UI
 
 ---
 
