@@ -36,16 +36,13 @@ The framework extends Excel with a runtime layer composed of three main domains:
 
 ### Execution Engine
 - VBA Performance Manager  
-  https://github.com/danielep71/vba-performance-manager  
-
-High-resolution timing and runtime environment control, including suppression of performance “time-wasters”.
+  https://github.com/danielep71/VBA-Performance_Manager  
 
 ---
 
 ### UI Controller
-- Excel UI Controller *(coming soon)*  
-
-Centralized management of Excel UI elements such as ribbon, status bar, gridlines, and window behavior.
+- Excel UI Controller  
+  https://github.com/danielep71/excel-ui-controller
 
 ---
 
