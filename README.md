@@ -4,6 +4,9 @@
 
 ---
 
+<img width="1536" height="1024" alt="umbrella" src="https://github.com/user-attachments/assets/6cbf4f4b-eefa-43e8-8c34-723e7d14d23f" />
+
+
 ## Overview
 
 This repository provides a **cohesive runtime layer for Excel VBA**, designed to move beyond ad-hoc macros toward **engineered, maintainable applications**.
