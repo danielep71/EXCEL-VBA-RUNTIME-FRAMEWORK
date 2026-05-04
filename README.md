@@ -6,6 +6,18 @@
 
 <img width="1536" height="1024" alt="umbrella" src="https://github.com/user-attachments/assets/6cbf4f4b-eefa-43e8-8c34-723e7d14d23f" />
 
+---
+
+<p align="center">
+  <img alt="Platform" src="https://img.shields.io/badge/platform-Excel_VBA-217346">
+  <img alt="Type" src="https://img.shields.io/badge/type-framework-6f42c1">
+  <img alt="Scope" src="https://img.shields.io/badge/scope-runtime_architecture-blue">
+  <img alt="Status" src="https://img.shields.io/badge/status-active_development-orange">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+</p>
+
+---
+
 
 ## Overview
 
